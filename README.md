@@ -6,7 +6,7 @@ Student and Web-Develover
 
 I learned to code since 2021 when the school was closed because of the pandemic, at first I learned code I studied HTML, but as time went on I felt more interested in the backend. So until now I'm still studying the code used for backend-depelovment.
 
-* 🌍  I'm based in Indonesia
+* 🌍  I'm based in Bali-Indonesia
 * ✉️  You can contact me at [agussuardiasa1231@gmail.com](mailto:agussuardiasa1231@gmail.com)
 * 🧠  I'm learning Laravel
 
